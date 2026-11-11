@@ -1,6 +1,6 @@
 # RINK RIOT
 
-Background music: “Electrodoodle” by Kevin MacLeod. The sound button controls music and effects. See MUSIC-CREDITS.md for the recording and license.
+The supplied background audio plays during the match. The sound button controls music and effects. The track is included for offline play.
 
 A complete, original touch-friendly 3D hockey game. English throughout. Chunky articulated players, painted block arenas and soft winter lighting continue the requested block-model art direction, with a new hockey theme and actual skating, possession, tackling, charged shots, goalkeepers and board rebounds.
 
